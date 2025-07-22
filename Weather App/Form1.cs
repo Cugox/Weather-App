@@ -67,7 +67,7 @@ namespace Weather_App
                     labSunset.Text = ConvertDateTime(Info.sys.sunset).ToShortTimeString();
                     labSunrise.Text = ConvertDateTime(Info.sys.sunrise).ToShortTimeString();
                     labWind.Text = Info.wind.speed.ToString();
-                    labPressure.Text = Info.main.pressure.ToString() + "hpa";
+                    labPressure.Text = Info.main.pressure.ToString() + " hpa";
                   
                     humidlbl.Text = Info.main.humidity.ToString() +"%";
 

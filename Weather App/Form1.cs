@@ -41,7 +41,7 @@ namespace Weather_App
         async void getWeather()
         {
             string city = citytxt.Text.Trim();
-            string APIKey = "effcb62812d63ea0abbfed8c1c210f51";
+            string APIKey = "";
             string url = $"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={APIKey}";
 
             using (HttpClient client = new HttpClient())

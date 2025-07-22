@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Weather App\Weather App\bin\Debug\Weather App.exe.config
+C:\Users\ASUS\source\repos\Weather App\Weather App\bin\Debug\Weather App.exe
+C:\Users\ASUS\source\repos\Weather App\Weather App\bin\Debug\Weather App.pdb
+C:\Users\ASUS\source\repos\Weather App\Weather App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Weather App\Weather App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\Weather App\Weather App\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Weather App\Weather App\obj\Debug\Weather_App.Form1.resources
+C:\Users\ASUS\source\repos\Weather App\Weather App\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Weather App\Weather App\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Weather App\Weather App\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Weather App\Weather App\obj\Debug\Weather .E39BF7C3.Up2Date
+C:\Users\ASUS\source\repos\Weather App\Weather App\obj\Debug\Weather App.exe
+C:\Users\ASUS\source\repos\Weather App\Weather App\obj\Debug\Weather App.pdb
+C:\Users\ASUS\source\repos\Weather App\Weather App\obj\Debug\Weather App.exe.config
